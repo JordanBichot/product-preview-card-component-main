@@ -38,8 +38,8 @@ Movile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/JordanBichot/product-preview-card-component-main.git)
-- Live Site URL: [Add live site URL here](https://fem-product-preview-card-challenge.netlify.app/)
+- Solution URL: [GitHub Solution](https://github.com/JordanBichot/product-preview-card-component-main.git)
+- Live Site URL: [Live Site](https://fem-product-preview-card-challenge.netlify.app/)
 
 ## My process
 
