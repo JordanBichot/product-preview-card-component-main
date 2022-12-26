@@ -29,9 +29,11 @@ End users should be able to:
 ### Screenshot
 
 Desktop
+
 ![](./images/Screenshot_Desktop.png)
 
 Movile
+
 ![](./images/Screenshot_Movile.png)
 
 ### Links
@@ -60,11 +62,12 @@ Currently, the old price (169.99) is not being properly announced to screen read
 
 ## Author
 
-- FinTech Samurais - [Jordan Miguel Bichot Pérez](https://fintechsamurais.com/)
+- Jordan Miguel Bichot Pérez - [FinTech Samurais](https://fintechsamurais.com/)
 - Frontend Mentor - [@JordanBichot](https://www.frontendmentor.io/profile/JordanBichot)
+- GitHub - [@jordanbichot](https://github.com/jordanbichot)
+- LinkedIn - [Jordan Miguel Bichot Pérez](https://www.linkedin.com/in/jordan-miguel-bichot-p%C3%A9rez-613172225)
 - Twitter - [@BichotJordan](https://twitter.com/BichotJordan?t=lu5q3WUeYHh3oWaySHXjIg&s=09)
 
 ## Acknowledgments
 
-Thanks to the invaluable help of my mentor and friend Dariel Medina Rodríguez.
-Here´s his GitHub account in case you need some inspiration. (https://github.com/darielmedr) 
+Thanks to the invaluable help of my mentor and friend [Dariel Medina Rodríguez](https://github.com/darielmedr)
