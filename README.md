@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,6 +23,7 @@ The challenge was to build out the product preview card component and get it loo
 The designs of the projects are inside the `/design` folder. Both a mobile and a desktop version of the design are in JPG static format. Using JPGs mean that styles such as `font-size`, `padding` and `margin` are not given and had to be guessed.
 
 End users should be able to:
+
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
@@ -59,6 +60,7 @@ Currently, the old price (169.99) is not being properly announced to screen read
 
 - [Josh's Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) - This Reset uses a more-intuitive box-sizing model. Removes default margin. Allows percentage-based heights in the application. Adds accessible line-height. Improves text rendering. Improves media defaults. Removes built-in form typography styles. Avoids text overflows and, if needed create a root stacking context.
 - [Taking on a Frontend Mentor challenge | Responsive Product Preview Card Component](https://youtube.com/watch?v=B2WL6KkqhLQ&feature=shares) - This is a video that explains step by step how to solve this challenge.
+- [Sr-Only] - (https://stackoverflow.com/questions/19758598/what-is-sr-only-in-bootstrap-3).
 
 ## Author
 
